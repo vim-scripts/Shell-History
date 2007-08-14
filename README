@@ -1,0 +1,14 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=1991
+
+If you have previously typed a complicated command into your shell and then want to use it within a shell script this will make it easier to grab
+
+just start typing a fragment of the command and hit control b
+
+Note: .bash_history will normally only be written to when you exit a shell
+
+You may want to tweak your history settings to gain best possible performance
+possibly http://wooledge.org/mywiki/BashFAQ#faq77 (realtime updates...although I haven't tried this)
+
+This was just a personal  experiment at vim scripting, please send improvements/suggestions. 
+
+
